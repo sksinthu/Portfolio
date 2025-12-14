@@ -6,14 +6,14 @@ import Link from "next/link"
 
 const projects = [
     {
-        title: "Brain Wave Phi Three",
+        title: "Brain Wave ",
         description: "A modern frontend React application dedicated to UI design practice, featuring smooth animations and a futuristic interface.",
         tags: ["React.js", "Tailwind CSS", "Framer Motion"],
         link: "https://brain-wave-phi-three.vercel.app/",
         color: "from-purple-500 to-indigo-500",
     },
     {
-        title: "KMC Odexion",
+        title: "Chat Bot",
         description: "An intelligent chatbot application integrating Gemini AI, providing responsive and context-aware interactions.",
         tags: ["JavaScript", "Gemini AI", "CSS3"],
         link: "https://kmcodexion.vercel.app/",
