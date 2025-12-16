@@ -16,7 +16,7 @@ const projects = [
         title: "Chat Bot",
         description: "An intelligent chatbot application integrating Gemini AI, providing responsive and context-aware interactions.",
         tags: ["JavaScript", "Gemini AI", "CSS3"],
-        link: "https://kmcodexion.vercel.app/",
+        link: "https://kmcodexionchatbot.vercel.app/",
         color: "from-blue-500 to-cyan-500",
     },
     {
