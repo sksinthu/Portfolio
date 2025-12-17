@@ -35,7 +35,7 @@ export function Hero() {
                         <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold tracking-tight text-white leading-[1.1] mb-6">
                             Hi, I'm <br />
                             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 animate-gradient-x">
-                                Kirusnavelu
+                                Sinthujan
                             </span>
                         </h1>
 
